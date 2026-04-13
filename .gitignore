@@ -1,0 +1,16 @@
+venv/
+.venv/
+env/
+bin/
+include/
+lib/
+share/
+
+listim.csv
+resum.csv
+*.csv
+
+.streamlit/
+.streamlit/config.toml
+
+__pycache__/
